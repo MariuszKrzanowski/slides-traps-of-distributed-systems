@@ -1,2 +1,3 @@
-# demo-traps-of-distributed-systems
-Presentation plus source code to my presentation about Traps of Distributed Systems
+# Slides to presentation Traps of Distributed Systems
+
+Slides to the presentation about Traps of Distributed Systems
